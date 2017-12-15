@@ -6,7 +6,21 @@
 .text {
   color: green;
   padding-left: 50px;
-  padding-top: 70px; }
+  padding-top: 70px;
+  word-wrap: break-word;
+  width: 50%; }
+
+.the-bod-index {
+  background-image: url("download.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%; }
+
+.block {
+  display: block; }
+  .block .text {
+    display: block; }
 
 .the-bod {
   background-image: url("download.jpeg");
@@ -14,10 +28,5 @@
   background-size: cover;
   width: 100%;
   height: 850px; }
-
-.block {
-  display: block; }
-  .block .text {
-    display: block; }
 
 /*# sourceMappingURL=style.css.map */

@@ -8,6 +8,23 @@
   color: green;
   padding-left: 50px;
   padding-top: 70px;
+  word-wrap: break-word;
+  width: 50%;
+}
+
+.the-bod-index {
+  background-image: url("download.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.block {
+  display: block;
+  .text{
+    display: block
+  }
 }
 
 .the-bod {
@@ -16,11 +33,4 @@
   background-size: cover;
   width: 100%;
   height: 850px;
-}
-
-.block {
-  display: block;
-  .text{
-    display: block;
-  }
 }
