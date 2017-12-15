@@ -1,0 +1,23 @@
+.orga {
+  color: red;
+  padding-left: 20px;
+  padding-top: 50px; }
+
+.text {
+  color: green;
+  padding-left: 50px;
+  padding-top: 70px; }
+
+.the-bod {
+  background-image: url("download.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 850px; }
+
+.block {
+  display: block; }
+  .block .text {
+    display: block; }
+
+/*# sourceMappingURL=style.css.map */
